@@ -8,8 +8,6 @@
   6.about column
     ID: it is flag of table,prevent duplicates
 
-This is my first post code if you have any questions, please contact me
-email:zhou1354061659@hotmail.com
 
 综述： 
     这段代码可以帮助您读取excel插入到数据库，但你需要知道
@@ -22,5 +20,4 @@ email:zhou1354061659@hotmail.com
        ID：它是表的标志，防止重复的
 	 
 	
-这是我第一次发布代码，如果您有任何疑问，请与我联系
-email:zhou1354061659@hotmail.com
+
